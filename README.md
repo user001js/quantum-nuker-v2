@@ -14,7 +14,6 @@
   
   <h3 align="center">O Quantum Nuker é um programa desenvolvido com a linguagem de programação Python, uma "ferramenta" que usa a destruição em massa para derrubar servidores do Discord usando um robô. Para isso, basta você configurá-lo no arquivo nomeado como 'config.json'.</h3>
   <p align="center">
-    <br />
     <a href="https://user001js.wixsite.com/mi1"><strong>Site do MI-1</strong></a>
     <br />
     <br />
