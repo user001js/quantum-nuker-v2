@@ -8,21 +8,21 @@
 <img src=https://img.shields.io/github/downloads/user001js/quantum-nuker-v2/total?color=6699ff&style=for-the-badge />
 </p>
 <p align="center">
-  <a href="https://github.com/user001js/FBI-NUKER">
+  <a href="https://github.com/user001js/quantum-nuker-v2">
     <img src="https://user-images.githubusercontent.com/101312928/192933235-3e25d482-fbdc-41c9-912a-80bf6bedaad2.png">
   </a>
   
   <h3 align="center">O Quantum Nuker é um programa desenvolvido com a linguagem de programação Python, uma "ferramenta" que usa a destruição em massa para derrubar servidores do Discord usando um robô. Para isso, basta você configurá-lo no arquivo nomeado como 'config.json'.</h3>
   <p align="center">
     <br />
-    <a href="https://fbifive-0.wixsite.com/info"><strong>Site do FBI</strong></a>
+    <a href="https://user001js.wixsite.com/mi1"><strong>Site do MI-1</strong></a>
     <br />
     <br />
-    <a href="https://github.com/user001js/FBI-NUKER/issues">Solicite um recurso</a>
+    <a href="https://github.com/user001js/quantum-nuker-v2/issues">Solicite um recurso</a>
     ·
-    <a href="https://github.com/user001js/FBI-NUKER/issues">Reporte um bug</a>
+    <a href="https://github.com/user001js/quantum-nuker-v2/issues">Reporte um bug</a>
     ·
-    <a href="https://discord.gg/g9GeX7JyAH">Servidor do Discord</a>
+    <a href="https://discord.gg/2AkAeZD6BU">Servidor do Discord</a>
   </p>
 </p>
 
